@@ -1,0 +1,13 @@
+.grid {
+    padding: 10%;
+    margin: auto;
+    border: 10px;
+    width: 100px;
+    height: 100px;
+}
+.navbar {
+    margin: 0%;
+    background-color: aquamarine;
+    display: flex;
+    grid-template-columns: auto;
+}
